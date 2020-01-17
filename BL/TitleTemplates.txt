@@ -1,0 +1,42 @@
+﻿profile_photo_update,{Subject} updated a photo.
+signup,{Subject} joined Koobeca.give him/her a warm welcome !
+status,{Subject}\r\n{body}
+like_activity_action,{Subject} likes {Object}'s {Item}.
+comment_activity_action,{Subject} commented on {Object}'s {Item}.\r\n{body}
+post,{Subject}\r\n{body}
+friends,{Subject} and {Object} are now friends.
+react,{Subject} reacted to {Object}'s {Item}.
+network_join,{Subject} joind {Item}.
+sitegroup_new,{Subject} created a new group {Object}.
+sitegroup_post_self,{Subject} likes {Object}'s {Item}.
+sitegroup_admin_cover_update
+sitegroup_join,{Subject} has joind {Object}.
+sitegroup_post,{Subject}\r\n{body}
+sitegroupalbum_admin_photo_new
+post_self_photo,{Subject}\r\n{body}
+post_self_link,{Subject}\r\n{body}
+like_album_photo,{Subject} likes {Object}'s photo.
+comment_album_photo,{Subject} commented on {Object}'s photo.
+post_self,{Subject}\r\n{body}
+sitetagcheckin_add_to_map
+sitevideo_video_new,{Subject}\r\n{body}
+share,{Subject} shared {Object}'s {Item}.
+sitepage_post_self,{Subject}\r\n{body}
+post_self_video,{Subject}\r\n{body}
+siteforum_topic_create
+link,{Subject} shared a {Item}.\r\n{body}
+sitetagcheckin_post_self,{Subject} checked in to {Object}\r\n{body}
+post_self_multi_photo
+cover_photo_update,{Subject} updated his/her cover photo.
+sitetagcheckin_checkin
+album_photo_new,{Subject}\r\n{body}
+like_album,{Subject} likes {Object}'s album.
+sitepage_new,{Subject} created a new {Item}.
+sitetagcheckin_status
+siteevent_new,{Subject} created a new {Item}.
+sitegroup_admin_profile_photo
+sitepage_admin_profile_photo
+sitepage_post,{Subject}\r\n{body}
+follow_sitegroup_group,{Subject} started following {Item}.
+follow_sitepage_page,{Subject} started following {Item}.
+sitevideo_channel_video_new 

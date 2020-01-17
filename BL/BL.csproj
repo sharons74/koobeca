@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>KoobecaFeedController.BL</AssemblyName>
+    <RootNamespace>KoobecaFeedController.BL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="APIs\Entities\PagePost.cs" />
+    <Compile Remove="FeedController.cs" />
+    <Compile Remove="Item.cs" />
+    <Compile Remove="ItemFeed.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="TitleTemplates.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
