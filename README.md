@@ -9,3 +9,6 @@
 ### Contributions
 I welcome anyone who believes that there is a room for an absolute public social platform, which is completely independent, 
 to join me and contribute to this project.
+
+### Specifications
+The detailed specifications of the project are describrd and maintained in spec.md
